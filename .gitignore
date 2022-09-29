@@ -1,0 +1,7 @@
+node_modules
+.DS_Store
+dist
+target
+dist-ssr
+*.local
+*.mp4

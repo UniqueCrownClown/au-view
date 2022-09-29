@@ -1,0 +1,19 @@
+{
+  "name": "musicshare",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "deploy": "node ./deploy.js"
+  },
+  "dependencies": {
+    "vant": "^3.6.3",
+    "vue": "^3.2.40",
+    "vue-router": "^4.1.5"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.2.40",
+    "sass": "^1.55.0",
+    "vite": "^1.0.0-rc.13"
+  }
+}
